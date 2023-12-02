@@ -1,2 +1,2 @@
 # Design-Portfolio
-Projects in mechanical design and analysis, spanning my time at university and working career. Some work projects may be partially redacted due to confidentiality and IP constraints.
+Projects in mechanical design and analysis, spanning my 4 year MEng in mechanical engineering
